@@ -2,7 +2,7 @@
 Immerse Yourself in Netflix Data
 Take a journey through the streaming giant's extensive catalog with this interactive Tableau dashboard. Uncover the trends that define the world of Netflix, from popular genres to country-specific content distribution.
 
-🔗 Explore the Dashboard
+🔗 [**Explore the Dashboard**](https://public.tableau.com/app/profile/venkata.naga.umesh.munagala/viz/NetflixDashboard_17252945850760/Netflix)
 
 ![image](https://github.com/user-attachments/assets/a3ba0994-0bf1-4169-8c20-029c3a33ca4a)
 
